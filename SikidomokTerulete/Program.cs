@@ -26,7 +26,7 @@ namespace SikidomokTerulete
 
             Console.WriteLine($"A területek összege: {areasum}");
 
-            Console.ReadLine();
+            Console.ReadKey();
         }
     }
 }

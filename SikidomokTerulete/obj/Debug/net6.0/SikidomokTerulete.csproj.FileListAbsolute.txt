@@ -1,0 +1,15 @@
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\bin\Debug\net6.0\SikidomokTerulete.exe
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\bin\Debug\net6.0\SikidomokTerulete.deps.json
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\bin\Debug\net6.0\SikidomokTerulete.runtimeconfig.json
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\bin\Debug\net6.0\SikidomokTerulete.dll
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\bin\Debug\net6.0\SikidomokTerulete.pdb
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\obj\Debug\net6.0\SikidomokTerulete.csproj.AssemblyReference.cache
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\obj\Debug\net6.0\SikidomokTerulete.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\obj\Debug\net6.0\SikidomokTerulete.AssemblyInfoInputs.cache
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\obj\Debug\net6.0\SikidomokTerulete.AssemblyInfo.cs
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\obj\Debug\net6.0\SikidomokTerulete.csproj.CoreCompileInputs.cache
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\obj\Debug\net6.0\SikidomokTerulete.dll
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\obj\Debug\net6.0\refint\SikidomokTerulete.dll
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\obj\Debug\net6.0\SikidomokTerulete.pdb
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\obj\Debug\net6.0\SikidomokTerulete.genruntimeconfig.cache
+D:\C#Alap\SikidomokTerulete\SikidomokTerulete\obj\Debug\net6.0\ref\SikidomokTerulete.dll
